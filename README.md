@@ -9,7 +9,9 @@ uses Harmony's bridge ETH<->ONE to jump from chain to another.
 
 ## How to use it
 install Harmony One Wallet extension for Brave, Chrome and Firefox.
+
 get some test token using this link
+
 https://faucet.pops.one/
 
 https://onefaucet.ibriz.ai/
